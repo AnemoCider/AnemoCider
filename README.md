@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/AnemoCider)
+![Leetcode Stats](https://leetcard.jacoblin.cool/AnemoCider?site=cn&?theme=unicorn)

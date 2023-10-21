@@ -1,4 +1,5 @@
-More info on my website: anemocider.github.io
+Hi there, this is AnemoCider's github page.
+You may find more info about me on <a href="https://anemocider.github.io">My Personal Website</a>.
 
 <!--
 **AnemoCider/AnemoCider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-### Hi there 👋
+More info on my website: anemocider.github.io
 
 <!--
 **AnemoCider/AnemoCider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/leetcode?site=cn/anemocider)

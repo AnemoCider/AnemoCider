@@ -4,8 +4,8 @@ You may find more info about me on <a href="https://anemocider.github.io">My Per
 <!--START_SECTION:waka-->
 
 ```txt
-TeX        45 mins         ███████████████████████░░   91.93 %
-Markdown   3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Markdown   3 hrs 41 mins   ███████████████████████▒░   93.80 %
+C++        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 ```
 
 <!--END_SECTION:waka-->

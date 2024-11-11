@@ -4,10 +4,9 @@ You may find more info about me on <a href="https://anemocider.github.io">My Per
 <!--START_SECTION:waka-->
 
 ```txt
-V          2 hrs 41 mins   ████████████████████░░░░░   80.61 %
-CMake      25 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
-C++        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Markdown   25 mins         █████████████████████████   99.70 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

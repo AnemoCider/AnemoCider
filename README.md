@@ -4,8 +4,7 @@ You may find more info about me on <a href="https://anemocider.github.io">My Per
 <!--START_SECTION:waka-->
 
 ```txt
-V          6 hrs 20 mins   ████████████████████████▒   97.35 %
-Markdown   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -4,7 +4,9 @@ You may find more info about me on <a href="https://anemocider.github.io">My Per
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++    11 mins         █████████████▒░░░░░░░░░░░   53.67 %
+Git    7 mins          █████████▓░░░░░░░░░░░░░░░   38.42 %
+JSON   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
 ```
 
 <!--END_SECTION:waka-->
